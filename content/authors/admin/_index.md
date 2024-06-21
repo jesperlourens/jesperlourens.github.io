@@ -63,15 +63,15 @@ work:
   - position: Coach
     company_name: Mr. Chadd
     company_url: https://www.mrchadd.nl/
-    company_logo: assets/media/icons/logo_mrchadd.png
+    company_logo: ''
     date_start: 2021-10-01
     date_end: ''
-    summary: |-2
+    summary: |
       Coach for different courses, such as mathematics, physics, chemistry and economics.
   - position: Teaching Assistant
     company_name: University of Groningen
     company_url: ''
-    company_logo: assets/media/icons/RUG_logo.jpg
+    company_logo: ''
     date_start: 2023-11-01
     date_end: 2024-01-31
     summary: |
