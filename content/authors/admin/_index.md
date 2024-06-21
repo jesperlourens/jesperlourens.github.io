@@ -54,8 +54,8 @@ education:
       Grade: 8.2/10.0
   - area: BSc Artificial Intelligence
     institution: dr. Aletta Jacobs College
-    date_start: 2013
-    date_end: 2019
+    date_start: 2013-09-01
+    date_end: 2019-08-31
     summary: |
       Grade: 8/10
 
@@ -63,7 +63,7 @@ work:
   - position: Coach
     company_name: Mr. Chadd
     company_url: https://www.mrchadd.nl/
-    company_logo: ''
+    company_logo: assets/media/icons/logo_mrchadd.png
     date_start: 2021-10-01
     date_end: ''
     summary: |
@@ -71,7 +71,7 @@ work:
   - position: Teaching Assistant
     company_name: University of Groningen
     company_url: ''
-    company_logo: ''
+    company_logo: assets/media/icons/RUG_logo.jpg
     date_start: 2023-11-01
     date_end: 2024-01-31
     summary: |
