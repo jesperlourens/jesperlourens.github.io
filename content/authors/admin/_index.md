@@ -41,24 +41,24 @@ profiles:
     url: https://www.instagram.com/jesperlourens
 
 education:
-  - area: MSc Astronomy
+  - area: MSc Astronomy Quantum Universe
     institution: University of Groningen
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on Characterising Remnant radio galaxies in the HETDEX region. Supervised by [Prof Raffaella Morganti](https://raffaellamorganti.wordpress.com/). 
+  - area: BSc Astronomy
+    institution: University of Groningen
+    date_start: 2019-09-01
+    date_end: 2022-08-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Grade: 8.2/10.0
+  - area: Voorbereidend Wetenschappelijk Onderwijs (VWO)
+    institution: dr. Aletta Jacobs College
+    date_start: 2013-09-01
+    date_end: 2019-08-31
+    summary: |
+      Grade: 8/10
 
 work:
   - position: Director of Cloud Infrastructure
