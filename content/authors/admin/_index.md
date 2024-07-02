@@ -61,28 +61,30 @@ education:
       Grade: 8/10
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Coach
+    company_name: Mr. Chadd
+    company_url: https://www.mrchadd.nl/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-10-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Coach for different courses, such as mathematics, physics, chemistry and economics.
+  - position: Teaching Assistant
+    company_name: University of Groningen
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-11-01
+    date_end: 2024-01-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Giving weekly tutorials and grading weekly homeworks as a teaching assistant for the course The Evolving Universe, part of the university minor Astronomy.
+  - position: Tutor
+    company_name: TopTutors
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-05-01
+    date_end: 2021-11-31
+    summary: |
+      Tutoring mathematics, physics and chemistry.Tutoring mathematics, physics and chemistry.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
