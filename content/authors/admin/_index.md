@@ -29,16 +29,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:contact@jesperlourens.nl'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/jesperlourens
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jesperlourens
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/jesperlourens
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jesperlourens
 
 education:
   - area: PhD Artificial Intelligence
