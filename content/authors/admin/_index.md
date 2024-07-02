@@ -69,22 +69,7 @@ work:
     date_end: ''
     summary: |
       Coach for different courses, such as mathematics, physics, chemistry and economics.
-  - position: Teaching Assistant
-    company_name: University of Groningen
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-11-01
-    date_end: 2024-01-31
-    summary: |
-      Giving weekly tutorials and grading weekly homeworks as a teaching assistant for the course The Evolving Universe, part of the university minor Astronomy.
-  - position: Tutor
-    company_name: TopTutors
-    company_url: ''
-    company_logo: ''
-    date_start: 2019-05-01
-    date_end: 2021-11-31
-    summary: |
-      Tutoring mathematics, physics and chemistry.Tutoring mathematics, physics and chemistry.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
