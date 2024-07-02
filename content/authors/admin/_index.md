@@ -12,13 +12,13 @@ last_name: Lourens
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐸
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: MSc Student at University of Groningen
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
