@@ -43,48 +43,46 @@ profiles:
 education:
   - area: MSc Astronomy
     institution: University of Groningen
-    date_start: 2022-09-01
-    date_end: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on Characterising Remnant radio galaxies in the HETDEX region. Supervised by [Prof Raffaella Morganti](https://raffaellamorganti.wordpress.com/). 
-  - area: BSc Astronomy
-    institution: University of Groningen
-    date_start: 2019-09-01
-    date_end: 2022-08-31
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Grade: 8.2/10.0
-  - area: Voorbereidend Wetenschappelijk Onderwijs (VWO)
-    institution: dr. Aletta Jacobs College
-    date_start: 2013-09-01
-    date_end: 2019-08-31
-    summary: |
-      Grade: 8/10
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 
 work:
-  - position: Coach
-    company_name: Mr. Chadd
-    company_url: https://www.mrchadd.nl/
-    company_logo: assets/media/icons/logo_mrchadd.png
-    date_start: 2021-10-01
-    date_end: ''
-    summary: |
-      Coach for different courses, such as mathematics, physics, chemistry and economics.
-  - position: Teaching Assistant
-    company_name: University of Groningen
-    company_url: ''
-    company_logo: assets/media/icons/RUG_logo.jpg
-    date_start: 2023-11-01
-    date_end: 2024-01-31
-    summary: |
-      Giving weekly tutorials and grading weekly homeworks as a teaching assistant for the course The Evolving Universe, part of the university minor Astronomy.
-  - position: Tutor
-    company_name: TopTutors
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2019-05-01
-    date_end: 2021-11-31
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Tutoring mathematics, physics and chemistry.Tutoring mathematics, physics and chemistry.
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -121,14 +119,12 @@ skills:
         icon: camera
 
 languages:
-  - name: Dutch
-    percent: 100
   - name: English
-    percent: 80
-  - name: German
-    percent: 50
-  - name: French
-    percent: 30
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
